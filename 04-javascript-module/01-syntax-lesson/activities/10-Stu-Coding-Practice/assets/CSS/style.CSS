@@ -1,0 +1,15 @@
+*{margin: 20px auto;
+padding: 0;}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid blueviolet;
+  width: 500px;
+  text-align: center;
+}
+#res{
+  width: 100%;
+}
